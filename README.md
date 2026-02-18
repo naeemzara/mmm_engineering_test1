@@ -11,12 +11,13 @@ This project is a python module- based utility design including structure, core 
 Clone this repository.
 
 **Install dependencies:**
-pip install -r requirements.txt
+pip install -r pyproject.toml
 
 **Pushing to GitHub**
 1. Initialize Git
 Navigate to the my_project directory and initialize Git:
 
-'''cd my_project
+'''cd test1
 git init
 '''
+
