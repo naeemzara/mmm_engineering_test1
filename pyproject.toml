@@ -1,0 +1,12 @@
+[project]
+name = "mmm_engineering_test1"
+version = "0.0.0"
+description = "MMM quality checks tests"
+dependencies = [
+	"pandas>=1.0",
+	"pytest>=7.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
